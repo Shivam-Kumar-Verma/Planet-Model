@@ -19,6 +19,12 @@ A mesmerizing **CSS-only planetary animation** that simulates the orbit of the *
 - HTML5
 - CSS3 (Flexbox, Keyframes, Positioning)
 
+## 🚀 How to Use
+
+1. Clone or download this repository.
+2. Open `index.html` in your browser.
+3. Watch the planets rotating around eachother in mesmerizing harmony! ✨
+
 ## 💡 How It Works
 
 - The **Sun** stays fixed at the center using absolute positioning.
